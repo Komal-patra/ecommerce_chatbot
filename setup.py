@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="Ecommercebot",
+    name="ecommbot",
     version="0.0.1",
     author="Komal",
     author_email="komalfsds2022@gmail.com",

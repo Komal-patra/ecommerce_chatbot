@@ -5,3 +5,7 @@ datasets
 pypdf
 python-dotenv
 flask
+sentence_transformers
+langchain_huggingface
+
+-e .
